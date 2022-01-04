@@ -1,4 +1,4 @@
-cask 'freefilesync' do
+cask 'freefilesync@11' do
   version '11.16'
   sha256 '9455f8236dab4850b8c52e8278cf23c08a53982baf33fe8391be63ce8503453b'
 
