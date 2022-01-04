@@ -1,6 +1,6 @@
 cask "double-commander-cocoa" do
-  version "1.0.0-9750"
-  sha256 "a035031b505ceee4ace49142a7a6a6dcf2d0dd8716c9183eb86b06f38dedbae9"
+  version "1.1.0-10014"
+  sha256 "81077e87929b08e63585133552505fc5025eb135eac494c8ad3e018c8fe484e6"
 
   url "https://doublecmd.sourceforge.io/snapshots/doublecmd-#{version}.cocoa.x86_64.zip"
   name "Double Commander"
