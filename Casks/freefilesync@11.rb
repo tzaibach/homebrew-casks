@@ -8,7 +8,7 @@ cask 'freefilesync@11' do
   name 'FreeFileSync'
   homepage 'https://www.freefilesync.org/'
 
-  pkg "FreeFileSync_#{version}_macOS.pkg"
+  pkg "FreeFileSync_#{version}.pkg"
 
   uninstall pkgutil: [
                        'org.freefilesync.pkg.FreeFileSync',
