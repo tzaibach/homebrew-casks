@@ -1,4 +1,4 @@
-# Queco Casks
+# tzaibach's Casks
 
 ## How do I install these formulae?
 
