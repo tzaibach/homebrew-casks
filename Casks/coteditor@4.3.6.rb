@@ -1,4 +1,4 @@
-cask "coteditor" do
+cask "coteditor@4.3.6" do
   if MacOS.version <= :el_capitan
     version "3.5.4"
     sha256 "0b2cbf38cc531268e3691f307445e05ae5da64b48ceaf86c4d16b993c9be3e9f"
